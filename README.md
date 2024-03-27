@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Qiuting !
-***
+---
 Visit my [personal website](https://mochimo-mo.github.io/) for more about my work and projects.
 ### ⚡ Technology Stack
 ***
