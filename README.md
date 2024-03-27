@@ -21,3 +21,6 @@ Visit my [personal website](https://mochimo-mo.github.io/) for more about my wor
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](qiutingqian@hotmail.com)
 
 ## 😄 Latest Updates
+
+## 💫 Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=dark&count_private=true)
