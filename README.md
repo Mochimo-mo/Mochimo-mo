@@ -3,8 +3,8 @@
 Visit my [personal website](https://mochimo-mo.github.io/) for more about my work and projects.
 ### ⚡ Technology Stack
 ***
-- *language*![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- *data*![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+- *language* ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- *data*! [](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ### 🔭 I’m currently working on ...
 ***
 ### 🌱 I’m currently learning ...
