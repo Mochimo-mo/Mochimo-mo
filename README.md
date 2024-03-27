@@ -24,5 +24,5 @@ Visit my [personal website](https://mochimo-mo.github.io/) for more about my wor
 
 ## 💫 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mochimo-mo&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mochimo-mo&theme=dark&layout=compact)
+
 
