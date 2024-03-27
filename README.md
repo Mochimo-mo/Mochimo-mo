@@ -19,6 +19,7 @@ Visit my [personal website](https://mochimo-mo.github.io/) for more about my wor
 ## 📫 How to reach me
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mochimo-mo)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](qiutingqian@hotmail.com)
+[![](https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logoColor=white)](https://blog.csdn.net/weixin_42250164?type=blog)
 
 ## 😄 Latest Updates
 
