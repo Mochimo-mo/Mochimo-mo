@@ -23,7 +23,6 @@ Visit my [personal website](https://mochimo-mo.github.io/) for more about my wor
 
 ## 😄 Latest Updates
 
-## 💫 Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mochimo-mo&show_icons=true&theme=dark&count_private=true)
+
 
 
