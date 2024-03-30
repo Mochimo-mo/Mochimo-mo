@@ -13,8 +13,6 @@ Visit my [personal website](https://mochimo-mo.github.io/) for more about my wor
 
 ## 🌱 I’m currently learning ...
 - Full-stack Develop 全栈开发
-- Molecular Dynamics 分子动力学
-- Korean 韩语
 
 ## 📫 How to reach me
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mochimo-mo)
