@@ -3,7 +3,8 @@
 <!--
 **Mochimo-mo/Mochimo-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Mochimo-mo/Mochimo-mo/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
