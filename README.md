@@ -14,5 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Mochimo-mo/Mochimo-mo/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
+- 🔭 I’m currently working on Ai4Science
